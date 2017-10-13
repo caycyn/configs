@@ -1,4 +1,4 @@
-set edittor=gvim --servername GVIM --remote
+set edittor='gvim --servername GVIM --remote'
 
 map j 3j
 map k 3k
